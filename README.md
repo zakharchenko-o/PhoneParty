@@ -3,11 +3,10 @@ Small games for parties
 
 I was wiling to sell this game for GoogleStore a few month ago.
 
-
-Hi. This is your parents.
+This is your parrents.
 and
-The Zen of Python, by Tim Peters
-
+TEST
+and
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
